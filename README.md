@@ -3,8 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Creating Virtual Machines in the Cloud](https://github.com/joshmadakorcc/configure-ad)
+  - [Observing Network Traffic and Network Security Groups (NSGs) Functions](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Create Active Directory Infrastructure in Azure](https://github.com/jeffersonshue) 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
