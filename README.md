@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/jeffersonshue/configure-ad)
-  - [Observing Network Traffic and Network Security Groups (NSGs) Functions](https://github.com/jeffersonshue/azure-network-protocols)
+  - [Observing Network Traffic and Network Security Groups (NSGs) Functions](https://github.com/jeffersonshue/azure-network-protocol)
   - [Create Active Directory Infrastructure in Azure](https://github.com/jeffersonshue/create-ad) 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Prerequisites and Installation](https://github.com/jeffersonshue/osticket-prereqs)
