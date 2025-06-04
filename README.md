@@ -4,14 +4,14 @@
 
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/jeffersonshue/configure-ad)
-  - [Observing Network Traffic and Network Security Groups (NSGs) Functions](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Create Active Directory Infrastructure in Azure](https://github.com/jeffersonshue) 
+  - [Observing Network Traffic and Network Security Groups (NSGs) Functions](https://github.com/jeffersonshue/azure-network-protocols)
+  - [Create Active Directory Infrastructure in Azure](https://github.com/jeffersonshue/create-ad) 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Prerequisites and Installation](https://github.com/jeffersonshue/osticket-prereqs)
+  - [Post-Installation Configuration](https://github.com/jeffersonshue/post-install-config)
+  - [Ticket Lifecycle Examples](https://github.com/jeffersonshue/ticket-lifecycle)
 - <b>VPNs</b>
-  - [Virtual Private Network (VPNs) Setup and Usage (Proton VPN)](https://github.com/Nathan-Butler7/vpn-setup-usage)
+  - [Virtual Private Network (VPNs) Setup and Usage (Proton VPN)](https://github.com/jeffersonshue/vpn-setup-usage)
 
 <h2>🤳Connect with me:</h2>
 
