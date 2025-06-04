@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines in the Cloud](https://github.com/joshmadakorcc/configure-ad)
+  - [Creating Virtual Machines in the Cloud](https://github.com/jeffersonshue/configure-ad)
   - [Observing Network Traffic and Network Security Groups (NSGs) Functions](https://github.com/joshmadakorcc/azure-network-protocols)
   - [Create Active Directory Infrastructure in Azure](https://github.com/jeffersonshue) 
 - <b>osTicket (Help Desk Ticketing System)</b>
