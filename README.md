@@ -6,7 +6,7 @@
   - [Creating Virtual Machines in the Cloud](https://github.com/jeffersonshue/configure-ad)
   - [Create Active Directory Infrastructure in Azure](https://github.com/jeffersonshue/create-ad) 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Prerequisites and Installation](https://github.com/jeffersonshue/osticket-prereq)
+  - [osTicket Installation](https://github.com/jeffersonshue/osticket-prereq)
   - [Post-Installation Configuration](https://github.com/jeffersonshue/post-install-config)
   - [Ticket Lifecycle Examples](https://github.com/jeffersonshue/ticket-lifecycle)
 
