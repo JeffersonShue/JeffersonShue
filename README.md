@@ -9,10 +9,9 @@
   - [Prerequisites and Installation](https://github.com/jeffersonshue/osticket-prereq)
   - [Post-Installation Configuration](https://github.com/jeffersonshue/post-install-config)
   - [Ticket Lifecycle Examples](https://github.com/jeffersonshue/ticket-lifecycle)
-- <b>VPNs</b>
-  - [Virtual Private Network (VPNs) Setup and Usage (Proton VPN)](https://github.com/jeffersonshue/vpn-setup-usage)
 
-<h2>🤳Connect with me:</h2>
+
+<h2>Connect with me:</h2>
 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
