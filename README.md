@@ -8,7 +8,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket Installation](https://github.com/jeffersonshue/osticket-prereq)
   - [Post-Installation Configuration](https://github.com/jeffersonshue/post-install-config)
-  - [Ticket Lifecycle Examples](https://github.com/jeffersonshue/ticket-lifecycle)
+  - [Ticket Lifecycle Example](https://github.com/jeffersonshue/ticket-lifecycle)
 
 
 <h2>Connect with me:</h2>
